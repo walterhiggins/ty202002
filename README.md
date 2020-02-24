@@ -14,5 +14,5 @@ Create a simple CV in markdown.
    - Education
    - Hobbies & Interests
    - Achievements (optional)
- 4. Under each heading list relevant details.
+ 4. Under each heading list relevant details (commit changes as you go).
  
