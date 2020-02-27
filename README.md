@@ -16,3 +16,7 @@ Create a simple CV in markdown.
    - Achievements (optional)
  4. Under each heading list relevant details (commit changes as you go).
  
+# Testing
+
+## Taking screenshots on a Mac
+
