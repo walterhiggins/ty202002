@@ -20,3 +20,7 @@ Create a simple CV in markdown.
 
 ## Taking screenshots on a Mac
 
+1. Press the Command + Shift + 4 Keys simultaneously.
+2. With your pointer turned into a crosshair, click and drag to select the region you wish to capture.
+3. When you let go of your mouse button, the screenshot will be saved to your desktop.
+![Taking a screenshot](image.png)
